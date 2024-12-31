@@ -6,23 +6,19 @@ body {
     -webkit-font-smoothing: "Roboto", sans-serif;
     -moz-osx-font-smoothing: "Roboto", sans-serif;
     font-style: normal;
+    background-color: #d3d3d3;
+    color: var(--black);
 }
-h1,
-h2,
-h3,
-h4,
-h5,
-h6,
-p {
+h1, h2, h3, h4, h5, h6, p {
     margin: 0;
 }
 
 :root {
-    --primary: #5e3bee;
-    --heading-color: #282938;
-    --bg-shade: #f5fcff;
-    --github: #e62872;
-    --darkblue: #1c1e53;
+    --primary: #ff6f61;
+    --heading-color: #34495e;
+    --bg-shade: #d3d3d3;
+    --github: #333333;
+    --darkblue: #2980b9;
     --black: #000000;
     --white: #ffffff;
 }
@@ -69,9 +65,9 @@ p {
     background-color: var(--white);
 }
 .btn-github {
-    color: var(--white);
-    background-color: var(--github);
-    border: var(--github);
+    color: var(--github);
+    background-color: var(--white);
+    border: var(--white);
     display: flex;
     flex-direction: row;
     justify-content: center;
@@ -80,8 +76,13 @@ p {
     gap: 16px;
 }
 .btn-github:hover {
-    color: var(--github);
-    background-color: var(--white);
+    color: var(--white);
+    background-color: var(--github);
+}
+.github-logo {
+    width: 28px;
+    height: 28px;
+    margin-left: -8px;
 }
 /* Global CSS Ends */
 /* Main Headings */
@@ -723,4 +724,3 @@ input[type="checkbox"] {
       transform: rotate(-45deg) translate(0.45rem, -0.1875rem);
     }
   }
-  
