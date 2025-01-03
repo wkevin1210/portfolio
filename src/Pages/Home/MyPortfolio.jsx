@@ -5,7 +5,6 @@ export default function MyPortfolio() {
         <section className="portfolio-section" id="MyPortfolio">
             <div classname="portfolio-container-box">
                 <div className="portfolio-container">
-                    <p className="sub-title">Recent Projects</p>
                     <h2 className="section-heading">My Portfolio</h2>
                 </div>
                 <div>
@@ -13,7 +12,7 @@ export default function MyPortfolio() {
                         className="btn btn-github"
                         onClick={(e) => {
                             e.preventDefault();
-                            window.location.href = "https://github.com/wkevin1210";
+                            window.open("https://github.com/wkevin1210", "_blank");
                         }}>
                         <img src="./img/github-logo.svg" alt="GitHub" className="github-logo"/>
                             Visit My GitHub
@@ -23,7 +22,7 @@ export default function MyPortfolio() {
             <div className="portfolio-section-container">
                 {data?.portfolio?.map((item, index) => (
                     <div key={index} className="portfolio-section-card">
-                        <div clasName="portfolio-section-img">
+                        <div className="portfolio-section-img">
                             <img src={item.src} alt="Placeholder" />
                         </div>
                         <div className="portfolio-section-card-content">

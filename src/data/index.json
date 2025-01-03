@@ -2,27 +2,27 @@
     "skills": [
         {
             "id": "1",
-            "src": "./img/product-chain-1.png",
+            "src": "./img/python-logo.png",
             "title": "Python",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut purus eget sapien."
+            "description": "Extensive experience using Python for data analysis, machine learning, and automation, with proficiency in libraries like Pandas, NumPy, and Scikit-Learn."
         },
         {
             "id": "2",
-            "src": "./img/tag-1.png",
+            "src": "./img/sql-logo.png",
             "title": "SQL",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut purus eget sapien."
+            "description": "Skilled in writing complex SQL queries to extract, transform, and analyze large datasets from relational databases efficiently."
         },
         {
             "id": "3",
-            "src": "./img/feather-pen-2.png",
+            "src": "./img/r-logo.png",
             "title": "R",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut purus eget sapien."
+            "description": "Proficient in using R for statistical analysis, data visualization, and creating reproducible reports with tools like ggplot2 and R Markdown."
         },
         {
             "id": "4",
-            "src": "./img/feather-pen-1.png",
+            "src": "./img/ml-icon.png",
             "title": "Machine Learning",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut purus eget sapien."
+            "description": "Experienced in developing and deploying machine learning models for predictive analytics, including feature engineering, model evaluation, and optimization."
         }
     ],
     "portfolio": [

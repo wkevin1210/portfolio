@@ -7,15 +7,13 @@ export default function HeroSection() {
                     <h1 className="hero-section-title">
                         <span className="hero-section-title-color">Data Scientist</span>{""}
                         <br />
-                        And Analyst
+                        and Analyst
                     </h1>
                     <p className="hero-section-description">
-                        I am a data scientist and analyst with a passion for data-driven
-                        decision-making and storytelling.
+                        I am a data scientist and analyst with a background in statistics and a passion for combining data-driven decision-making and storytelling.
                         <br />
                         <br />
-                        I have experience with Python, SQL, and R and have used tools such as Pandas, Scikit-Learn, and Tableau to perform
-                        data visualization, machine learning, and statistical analysis.
+                        Experienced in all aspects of data science and analytics, including data cleaning, data visualization, statistical analysis, machine learning, and artificial intelligence.
                     </p>
                 </div>
             </div>
