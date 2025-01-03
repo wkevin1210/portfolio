@@ -431,6 +431,11 @@ h3 {
     stroke: #006b6a;
 }
 
+.portfolio-section-card-link {
+  text-decoration: none;
+  color: inherit;
+}
+
 /* Portfolio Section Style Ends */
   
 /* Responsive Screens */

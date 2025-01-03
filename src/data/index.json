@@ -31,21 +31,24 @@
             "src": "./img/placeholder-image.png",
             "title": "Tableau Visualizations",
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut purus eget sapien.",
-            "link":"View In Tableau Public"
+            "text":"View In Tableau Public",
+            "link":"https://public.tableau.com/app/profile/kevin.wang6045"
         },
         {
             "id": "2",
             "src": "./img/placeholder-image-1.png",
             "title": "Sleigh 'n' Pray",
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut purus eget sapien.",
-            "link":"View In Github"
+            "text":"View In Github",
+            "link": "https://github.com/wkevin1210/sleigh-and-pray"
         },
         {
             "id": "3",
             "src": "./img/placeholder-image-2.png",
             "title": "Personal Portfolio",
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut purus eget sapien.",
-            "link":"View In Github"
+            "text":"View In Github",
+            "link": "https://github.com/wkevin1210/wkevin1210.github.io"
         }
     ]
 }
