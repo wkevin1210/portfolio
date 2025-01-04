@@ -10,8 +10,9 @@ export default function AboutMe() {
                         My academic and professional journey has allowed me to build a diverse data-focused skillset combining aspects of data analysis, predictive modeling, and machine learning.
                     </p>
                     <p className="about-me-description">
-                        Notable experiences include my internship at AT&T, where I built predictive models and dashboards to enhance operational insights, and my work at Citizen Data, where I managed large databases of voter information.
+                        Notable past roles include my position at AT&T, where I built predictive models and dashboards to enhance operational insights, and my work at Citizen Data, where I managed large databases of voter information.
                         My roles across diverse teams and industries have given me a comprehensive understanding of data pipelines, statistical modeling, and the collaborative process of delivering data-driven solutions in cross-functional environments.
+                        More details on my professional experience can be found in my resume below.
                     </p>
 
                     <p className="about-me-description">

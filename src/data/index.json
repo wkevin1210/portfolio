@@ -28,25 +28,25 @@
     "portfolio": [
         {
             "id": "1",
-            "src": "./img/placeholder-image.png",
+            "src": "./img/tableau-image.png",
             "title": "Tableau Visualizations",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut purus eget sapien.",
+            "description": "A collection of interactive data visualizations created using Tableau, showcasing various datasets and derived insights.",
             "text":"View In Tableau Public",
             "link":"https://public.tableau.com/app/profile/kevin.wang6045"
         },
         {
             "id": "2",
-            "src": "./img/placeholder-image-1.png",
+            "src": "./img/snp-image.png",
             "title": "Sleigh 'n' Pray",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut purus eget sapien.",
+            "description": "Video game developed as part of a small game jam team using using Godot.",
             "text":"View In Github",
             "link": "https://github.com/wkevin1210/sleigh-and-pray"
         },
         {
             "id": "3",
-            "src": "./img/placeholder-image-2.png",
+            "src": "./img/portfolio-image.png",
             "title": "Personal Portfolio",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut purus eget sapien.",
+            "description": "Portfolio website showcasing projects, skills, and resume, built using HTML, CSS, and React.",
             "text":"View In Github",
             "link": "https://github.com/wkevin1210/wkevin1210.github.io"
         }
